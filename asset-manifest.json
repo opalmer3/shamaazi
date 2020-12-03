@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shamaazi/static/css/main.b722749e.chunk.css",
+    "main.js": "/shamaazi/static/js/main.f93ee7ea.chunk.js",
+    "main.js.map": "/shamaazi/static/js/main.f93ee7ea.chunk.js.map",
+    "runtime-main.js": "/shamaazi/static/js/runtime-main.ac273ec9.js",
+    "runtime-main.js.map": "/shamaazi/static/js/runtime-main.ac273ec9.js.map",
+    "static/js/2.9a3524fb.chunk.js": "/shamaazi/static/js/2.9a3524fb.chunk.js",
+    "static/js/2.9a3524fb.chunk.js.map": "/shamaazi/static/js/2.9a3524fb.chunk.js.map",
+    "static/js/3.883535df.chunk.js": "/shamaazi/static/js/3.883535df.chunk.js",
+    "static/js/3.883535df.chunk.js.map": "/shamaazi/static/js/3.883535df.chunk.js.map",
+    "index.html": "/shamaazi/index.html",
+    "static/css/main.b722749e.chunk.css.map": "/shamaazi/static/css/main.b722749e.chunk.css.map",
+    "static/js/2.9a3524fb.chunk.js.LICENSE.txt": "/shamaazi/static/js/2.9a3524fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac273ec9.js",
+    "static/js/2.9a3524fb.chunk.js",
+    "static/css/main.b722749e.chunk.css",
+    "static/js/main.f93ee7ea.chunk.js"
+  ]
+}
