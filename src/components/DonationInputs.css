@@ -1,0 +1,35 @@
+.donation-inputs{
+    padding-bottom: 25px;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.donation-amount{
+    display: block;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.payment-method{
+    display: block;
+}
+
+input[type='radio']{
+    margin: 0;
+    margin-right: 10px;
+}
+
+.amount-input{
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid #42038a;
+    font-size: 1.2rem;
+    padding: 5px;
+    font-family: inherit;
+    margin-left: 5px;
+}
+
+.amount-input:focus{
+    outline: #000e49;
+}
